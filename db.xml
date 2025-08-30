@@ -20456,6 +20456,10 @@
 						<max type="number">15</max>
 						<current type="number">15</current>
 					</stamina>
+					<stamina>
+						<max type="number">15</max>
+						<current type="number">15</current>
+					</stamina>
 					<inu type="number">0</inu>
 					<keywords type="string">Melee, Strike, Weapon</keywords>
 					<keywords_2 type="string">Magic, Ranged, Strike</keywords_2>
