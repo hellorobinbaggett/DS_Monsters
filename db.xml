@@ -1893,7 +1893,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">3</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">2</stability>
@@ -2003,7 +2003,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -2097,7 +2097,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">-2</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -2192,7 +2192,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -2287,7 +2287,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -2380,7 +2380,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: A target who has [M &lt; 2] is weakened (save ends). A target weakened this way takes 2 poison damage at the start of each of their turns.</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
@@ -2479,7 +2479,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -2580,7 +2580,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -2699,7 +2699,7 @@
 					<patience type="number">0</patience>
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">1 Malice: The daybringer jumps up to 3 squares before or after using this ability.</special>
 					<special_3 type="string">2 Malice: The target is pulled up to 4 squares after the strike resolves.</special_3>
 					<speed type="number">5</speed>
@@ -2913,7 +2913,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-2</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">Two creatures or objects</target>
@@ -3113,7 +3113,7 @@
 					<prs type="number">-3</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">Two creatures or objects</target>
@@ -3315,7 +3315,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-2</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_2 type="string">The target must be the animal’s size or smaller.</special_2>
 					<speed type="number">6</speed>
 					<stability type="number">1</stability>
@@ -3520,7 +3520,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">6</speed>
 					<stability type="number">3</stability>
 					<target type="string">Two creature or objects</target>
@@ -3728,7 +3728,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">-2</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">Two creatures or objects</target>
@@ -3849,7 +3849,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">-4</prs>
 					<rea type="number">-3</rea>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">2</stability>
@@ -4089,7 +4089,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">Two creatures or objects</target>
@@ -4239,7 +4239,7 @@
 					<patience type="number">0</patience>
 					<prs type="number">4</prs>
 					<rea type="number">5</rea>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<special type="string">1+ Malice: Ajax can strike one additional target for each Malice spent.</special>
 					<special_11 type="string">This villain action can be replaced with a villain action from a creature any target has previously encountered.</special_11>
 					<special_2 type="string">3 Malice: The potency increases by 1. Additionally, the ground beneath the area drops 3 squares and is difficult terrain. Each flying target who has [M&lt;5] is knocked prone.</special_2>
@@ -4397,7 +4397,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">-5</prs>
 					<rea type="number">-2</rea>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special_3 type="string">2 Malice: Any enemy weakened this way is instead slowed and weakened (save ends). \n3 Malice: The ashen hoarder targets a second 4 cube within distance.</special_3>
 					<speed type="number">8</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
@@ -4523,7 +4523,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_2 type="string">The area extends from both the basilisk’s eyes, and this ability targets the first creature without cover on either side of the area.</special_2>
 					<speed type="number">8</speed>
 					<stability type="number">2</stability>
@@ -4636,7 +4636,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">3 Malice: The tonguesnapper targets two additional creatures or objects.</special>
 					<special_2 type="string">The area extends from both the tonguesnapper’s eyes, and this ability targets the first creature without cover on either side of the area.</special_2>
 					<speed type="number">8</speed>
@@ -4767,7 +4767,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">-3</rea>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_2 type="string">3 Malice: The bredbeddle shifts up to 2 squares, and can target additional enemies who come within distance of this ability during the shift.</special_2>
 					<speed type="number">5</speed>
 					<stability type="number">4</stability>
@@ -4909,7 +4909,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<special_4 type="string">The target must be grabbed by the channeler.</special_4>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -5030,7 +5030,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<special_4 type="string">The target must be grabbed by the commander.</special_4>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -5145,7 +5145,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<special type="string">5 Malice: The ability takes the Area keyword and loses the Strike keyword, its distance becomes a 1 burst, and it targets each enemy in the area.</special>
 					<special_3 type="string">The target must be grabbed by the roughneck.</special_3>
 					<special_4 type="string">The target must be grabbed by the roughneck.</special_4>
@@ -5268,7 +5268,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<special_4 type="string">The target must be grabbed by the sneak.</special_4>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
@@ -5374,7 +5374,7 @@
 					<prs type="number">4</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -5463,7 +5463,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -5532,7 +5532,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -5645,7 +5645,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">0</prs>
 					<rea type="number">-2</rea>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">10</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">1</stability>
@@ -5764,7 +5764,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -5856,7 +5856,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-2</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1T</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -5949,7 +5949,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -6046,7 +6046,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature</target>
@@ -6145,7 +6145,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -6243,7 +6243,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special type="string">5 Malice: The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch’s destination.</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Teleport</speedtype_name>
@@ -6342,7 +6342,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_2 type="string">Each target must be at less than full Stamina.</special_2>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
@@ -6444,7 +6444,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">Each enemy in the area</target>
@@ -6559,7 +6559,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">2</rea>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">Each enemy in the area</target>
@@ -6664,7 +6664,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">8</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object per minion</target>
@@ -6757,7 +6757,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1T</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -6851,7 +6851,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature per minion</target>
@@ -6948,7 +6948,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">3</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<special type="string">2 Malice: If the target has i&lt;2], they have corruption weakness 5 (save ends).</special>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
@@ -7053,7 +7053,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">8</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -7157,7 +7157,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">Each enemy in the area</target>
@@ -7256,7 +7256,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object in the area</target>
@@ -7357,7 +7357,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object</target>
@@ -7473,7 +7473,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special type="string">2 Malice: Two ensnarers appear in unoccupied spaces adjacent to each target. On a tier 3 outcome, four ensnarers appear.</special>
 					<special_2 type="string">2 Malice: Four level 4 demon minions (most commonly orliq, grulqins, and wobalas) appear instead.</special_2>
 					<speed type="number">6</speed>
@@ -7584,7 +7584,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -7678,7 +7678,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -7772,7 +7772,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">4</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -7872,7 +7872,7 @@
 					<prs type="number">4</prs>
 					<rea type="number">4</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special_2 type="string">The blight phage must create the cube beneath themself. \n2 Malice: The blight phage chooses three 2 cube areas within 10 squares of the phage. Each area is covered with blight and treated as if affected by Seeping Blight.</special_2>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
@@ -7972,7 +7972,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special type="string">After making the power roll, the chimeron decides what damage type the ability deals and which condition it imposes.</special>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
@@ -8074,7 +8074,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object</target>
@@ -8173,7 +8173,7 @@
 					<prs type="number">4</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">0</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -8271,7 +8271,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">8</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature</target>
@@ -8388,7 +8388,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">3</rea>
-					<size type="string">5</size>
+					<space type="number">5</space>
 					<special_3 type="string">2 Malice: A soulraker praetorian also appears within distance.</special_3>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
@@ -8501,7 +8501,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -8597,7 +8597,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">8</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -8694,7 +8694,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">8</speed>
 					<stability type="number">3</stability>
 					<target type="string">One creature or object per minion</target>
@@ -8794,7 +8794,7 @@
 					<prs type="number">4</prs>
 					<rea type="number">5</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">3 Malice: The izyak can vertical slide any target restrained this way up to 6 squares instead. A target left in midair doesn’t fall until the restrained condition ends.</special>
 					<special_2 type="string">2 Malice: The area increases to a 6 cube.</special_2>
 					<speed type="number">6</speed>
@@ -8901,7 +8901,7 @@
 					<prs type="number">-3</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">The effects of being slowed and weakened this way can’t be ignored.</special>
 					<speed type="number">9</speed>
 					<stability type="number">0</stability>
@@ -9022,7 +9022,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">5</prs>
 					<rea type="number">5</rea>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special type="string">2 Malice: Aurumvas regains Stamina equal to the damage dealt.</special>
 					<special_2 type="string">2 Malice: While dazed this way, a target can’t gain Heroic Resources.</special_2>
 					<speed type="number">8</speed>
@@ -9138,7 +9138,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -9230,7 +9230,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -9323,7 +9323,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">3</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -9428,7 +9428,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">1</stability>
@@ -9546,7 +9546,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">1+ Malice: The jurist can target one additional creature or object for each Malice spent.</special>
 					<special_4 type="string">The target takes a bane on the strike.</special_4>
 					<speed type="number">6</speed>
@@ -9665,7 +9665,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
 					<target type="string">Two creatures or objects</target>
@@ -9782,7 +9782,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">Two creatures or objects</target>
@@ -9906,7 +9906,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">4</prs>
 					<rea type="number">2</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: While a target is unable to hide this way, any strike against them made by a devil gains an edge.</special>
 					<special_3 type="string">While charmed this way, a creature treats the high judge as an ally, and the high judge can spend 1 Malice on their turn to make that creature move up to 3 squares.</special_3>
 					<special_4 type="string">While charmed this way, a creature treats the high judge as an ally, and the high judge can spend 1 Malice on their turn to make that creature move up to 3 squares.</special_4>
@@ -10026,7 +10026,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_2 type="string">2+ Malice: The ability targets one additional target for each 2 Malice spent.</special_2>
 					<special_3 type="string">1+ Malice: Aeolyxria creates an additional pillar for each Malice spent.</special_3>
 					<speed type="number">5</speed>
@@ -10138,7 +10138,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">8</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">2</stability>
@@ -10247,7 +10247,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: Myxovidan regains Stamina equal to half the damage dealt.</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
@@ -10357,7 +10357,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">3</stability>
@@ -10475,7 +10475,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">1</rea>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">2 Malice: If the target has [M&lt;4], they are also bleeding (save ends).</special>
 					<special_4 type="string">Each ally in the area gains an edge on their next strike.</special_4>
 					<speed type="number">5</speed>
@@ -10615,7 +10615,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">-1</rea>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special_10 type="string">If the Thorn Dragon’s Domain trait is in effect, any creature other than the dragon who starts their turn on the encounter map takes 1d3 poison damage.</special_10>
 					<special_3 type="string">A dragonsealed creature has their wounds bound by nettles and thorns, causing them to take an extra 1d3 damage whenever they take damage rolled as a d6 or a d3.</special_3>
 					<special_4 type="string">2 Malice: Each target takes an extra 1d3 damage, and if they have [A&lt;2], they are bleeding (save ends).</special_4>
@@ -10756,7 +10756,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">4</prs>
 					<rea type="number">1</rea>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<special_3 type="string">A dragonsealed creature has psychic weakness 3 and cold weakness 3. Additionally, the area is filled with magical darkness. The dragon ignores concealment created by this darkness.</special_3>
 					<special_4 type="string">3 Malice: The pull becomes a vertical slide.</special_4>
 					<speed type="number">8</speed>
@@ -10901,7 +10901,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">3</rea>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<special_3 type="string">A slagged target is coated in molten metal and takes 2d6 fire damage at the start of each of their turns. If a slagged target has [M&lt;3] they are restrained (save ends) whenever they take cold damage.</special_3>
 					<special_4 type="string">1 Malice: The strike deals 1d6 cold damage.</special_4>
 					<speed type="number">8</speed>
@@ -11054,7 +11054,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">5</prs>
 					<rea type="number">2</rea>
-					<size type="string">5</size>
+					<space type="number">5</space>
 					<special_3 type="string">Only creatures with souls can be dragonsealed by the omen dragon. A dragonsealed creature appears ghastly and pale, their Presence score is treated as 1 lower for the purpose of resisting potencies, and they can’t treat other creatures as allies.</special_3>
 					<special_4 type="string">3 Malice: The potency increases by 2, and each target is also pulled up to 5 squares.</special_4>
 					<speed type="number">10</speed>
@@ -11205,7 +11205,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">5</prs>
 					<rea type="number">3</rea>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special_10 type="string">An annihilated target must make the test again, decreasing the potency for themself by 2 each time they are annihilated. A creature reduced to 0 Stamina by this dies and their soul is destroyed.</special_10>
 					<special_3 type="string">A dragonsealed target emits a golden aura, and takes 2 damage per square moved when falling or when force moved into an obstacle.</special_3>
 					<special_8 type="string">The dragon can use this ability before the encounter begins.</special_8>
@@ -11326,7 +11326,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -11417,7 +11417,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -11508,7 +11508,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object per minion</target>
@@ -11599,7 +11599,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object per minion</target>
@@ -11695,7 +11695,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">5 Malice: If the target is pushed into another creature, the target and the creature are each restrained until the end of their next turn.</special>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
@@ -11794,7 +11794,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">3</stability>
 					<target type="string">Each enemy in the area</target>
@@ -11895,7 +11895,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object</target>
@@ -11992,7 +11992,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: This ability targets one additional target.</special>
 					<speed type="number">5</speed>
 					<stability type="number">4</stability>
@@ -12092,7 +12092,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">2</stability>
@@ -12193,7 +12193,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_2 type="string">The snare remains until the end of the encounter. Any enemy who moves into the area for the first time in a round or starts their turn there must make the test.</special_2>
 					<speed type="number">7</speed>
 					<stability type="number">2</stability>
@@ -12294,7 +12294,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">3</stability>
 					<target type="string">One creature or object</target>
@@ -12412,7 +12412,7 @@
 					<patience type="number">0</patience>
 					<prs type="number">0</prs>
 					<rea type="number">2</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: A target force moved adjacent to an ally of the marauder lord is restrained until the end of their next turn.</special>
 					<special_2 type="string">5 Malice: This ability takes the Area keyword and loses the Ranged keyword, its distance becomes a 10 burst, and it targets each restrained creature in the area.</special_2>
 					<speed type="number">5</speed>
@@ -12521,7 +12521,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-2</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">8</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">2</stability>
@@ -12632,7 +12632,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1T</size>
+					<space type="number">1</space>
 					<special_2 type="string">3 Malice: Until the end of the encounter, the ground within 3 squares of the target is wreathed in fire. Any enemy who enters that area for the first time in a round or starts their turn there takes 3 fire damage.</special_2>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
@@ -12743,7 +12743,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special_2 type="string">3 Malice: Until the end of the encounter, a vortex surrounds the target in a 3 aura. The area is difficult terrain for enemies. Additionally, at the end of each of the target’s turns, they can push one creature in the area up to 5 squares.</special_2>
 					<speed type="number">8</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
@@ -12856,7 +12856,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_2 type="string">3 Malice: Until the end of the encounter, the ground within 1 square of the target is a pool of water that is difficult terrain. This water extends out behind the target as they move, creating a stream that lasts until the end of the encounter. Any enemy who ends their turn in the stream and has [M&lt;2] is slowed (save ends).</special_2>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
@@ -12970,7 +12970,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special_2 type="string">3 Malice: Until the end of the encounter, the ground within 1 square of the target is overgrown with underbrush and vines. Whenever any enemy makes a strike against the target while within line of effect of that area, the enemy is pulled 5 squares toward the area after the strike is resolved. Any enemy who enters the area for the first time in a round or starts their turn there is knocked prone.</special_2>
 					<speed type="number">8</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -13083,7 +13083,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_2 type="string">3 Malice: Until the end of the encounter, the target grows a carapace of stone. They have a +3 bonus to stability and gain 15 temporary Stamina.</special_2>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
@@ -13187,7 +13187,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1T</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -13285,7 +13285,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -13382,7 +13382,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -13478,7 +13478,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1T</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -13577,7 +13577,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">4</speed>
 					<stability type="number">3</stability>
 					<target type="string">Self</target>
@@ -13677,7 +13677,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">5 Malice: The ability takes the Area keyword and loses the Strike keyword, its distance becomes a 3 cube within 10, and it targets each enemy in the area.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -13780,7 +13780,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -13880,7 +13880,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">Each creature in the area</target>
@@ -13984,7 +13984,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: The potency increases by 1. If the target is weakened this way at the end of the encounter, they can’t take a respite activity during their next respite.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -14093,7 +14093,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">Each enemy in the area</target>
@@ -14196,7 +14196,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -14318,7 +14318,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">3</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_3 type="string">3 Malice: The ordinator instead summons one ceramic horse or one winded brambleguard into an unoccupied space within distance.</special_3>
 					<special_6 type="string">The area turns dark and distorted, and is difficult terrain for enemies.</special_6>
 					<speed type="number">5</speed>
@@ -14439,7 +14439,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">10</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object</target>
@@ -14543,7 +14543,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">8</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -14642,7 +14642,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -14740,7 +14740,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -14839,7 +14839,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -14942,7 +14942,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">5 Malice: Each non-minion ally within 3 squares of the target can make a free strike against them.</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -15048,7 +15048,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -15152,7 +15152,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">3</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_2 type="string">2 Malice: The size of the cube increases by 3.</special_2>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -15257,7 +15257,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -15363,7 +15363,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -15467,7 +15467,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -15570,7 +15570,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">3</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: The target instead has a double bane on the next ability they use.</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -15678,7 +15678,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -15798,7 +15798,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: The potency increases by 1.</special>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -15918,7 +15918,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">8</speed>
 					<stability type="number">3</stability>
 					<target type="string">Two creatures or objects</target>
@@ -16022,7 +16022,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -16123,7 +16123,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">10</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -16223,7 +16223,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -16321,7 +16321,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -16424,7 +16424,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">5 Malice: The chirurgeon uses this ability again.</special>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -16530,7 +16530,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: The size of the cube and the potency both increase by 1.</special>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -16640,7 +16640,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -16750,7 +16750,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: The distance increases to Melee 5.</special>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
@@ -16856,7 +16856,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: This ability targets one additional target, and deals an additional 3 damage if both targets are adjacent to each other.</special>
 					<special_2 type="string">The guerrilla must be acting as a captain.</special_2>
 					<speed type="number">7</speed>
@@ -16965,7 +16965,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends).</special>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -17074,7 +17074,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: The sentry targets two additional creatures or objects.</special>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
@@ -17196,7 +17196,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: A target restrained by this ability takes an extra 3 damage.</special>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Teleport</speedtype_name>
@@ -17314,7 +17314,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">10</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object</target>
@@ -17439,7 +17439,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<special_4 type="string">2 Malice: The ability targets one additional target.</special_4>
 					<special_7 type="string">A target must be on the ground.</special_7>
 					<special_8 type="string">A target must be on the ground.</special_8>
@@ -17575,7 +17575,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">7</speed>
 					<stability type="number">5</stability>
 					<target type="string">Each enemy and object in the area</target>
@@ -17671,7 +17671,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">5</stability>
@@ -17767,7 +17767,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">7</speed>
 					<stability type="number">5</stability>
 					<target type="string">One creature or object per minion</target>
@@ -17863,7 +17863,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">10</stability>
@@ -17974,7 +17974,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">10</stability>
@@ -18093,7 +18093,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">8</speed>
 					<stability type="number">5</stability>
 					<target type="string">Two creatures or objects</target>
@@ -18214,7 +18214,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">8</speed>
 					<stability type="number">5</stability>
 					<target type="string">Two creatures or objects</target>
@@ -18336,7 +18336,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">7</speed>
 					<stability type="number">5</stability>
 					<target type="string">Two creatures or objects</target>
@@ -18452,7 +18452,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">10</speed>
 					<stability type="number">5</stability>
 					<target type="string">Two creatures or objects</target>
@@ -18567,7 +18567,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">10</stability>
@@ -18688,7 +18688,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<special_3 type="string">The clobberer can choose to fall prone in order to double the forced movement distance.</special_3>
 					<special_4 type="string">2 Malice: A target who would be grabbed by this ability is instead either vertical pushed up to 5 squares; or they take 5 damage, are knocked prone, and can’t stand until the end of their next turn.</special_4>
 					<speed type="number">6</speed>
@@ -18816,7 +18816,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">10</stability>
@@ -18946,7 +18946,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">0</rea>
-					<size type="string">5</size>
+					<space type="number">5</space>
 					<speed type="number">10</speed>
 					<stability type="number">10</stability>
 					<target type="string">Each enemy and object in the area</target>
@@ -19059,7 +19059,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">8</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object per minion</target>
@@ -19149,7 +19149,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object per minion</target>
@@ -19238,7 +19238,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object per minion</target>
@@ -19327,7 +19327,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object per minion</target>
@@ -19422,7 +19422,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object</target>
@@ -19523,7 +19523,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object</target>
@@ -19620,7 +19620,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object</target>
@@ -19715,7 +19715,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature</target>
@@ -19812,7 +19812,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2+ Malice: This ability targets one additional target for each 2 Malice spent.</special>
 					<speed type="number">7</speed>
 					<stability type="number">1</stability>
@@ -19908,7 +19908,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">7</speed>
 					<stability type="number">3</stability>
 					<target type="string">Two creatures or objects</target>
@@ -20018,7 +20018,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">0</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_5 type="string">Until the end of the encounter, all gnolls have a double edge on power rolls that target a winded enemy.</special_5>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
@@ -20122,7 +20122,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -20215,7 +20215,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -20307,7 +20307,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -20399,7 +20399,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-4</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1T</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -20499,7 +20499,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -20599,7 +20599,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -20698,7 +20698,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special type="string">1+ Malice: For each Malice spent, one target can be force moved 1 additional square.</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -20796,7 +20796,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special_2 type="string">2 Malice: Strikes made against targets no longer gain an edge.</special_2>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -20893,7 +20893,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">0</stability>
@@ -21009,7 +21009,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">1</rea>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
 					<stability type="number">1</stability>
@@ -21126,7 +21126,7 @@
 					<prs type="number">-3</prs>
 					<rea type="number">-4</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<special type="string">2 Malice: For any tier outcome, if the target has [M&lt;3, they are weakened (save ends).</special>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Climb</speedtype_name>
@@ -21238,7 +21238,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object</target>
@@ -21336,7 +21336,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_2 type="string">The griffon must be flying and must have a creature or object grabbed.</special_2>
 					<special_3 type="string">A target object must be size 2 or smaller.</special_3>
 					<speed type="number">9</speed>
@@ -21448,7 +21448,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">3</stability>
@@ -21573,7 +21573,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">1</rea>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<special_3 type="string">3 Malice: The hag regains Stamina equal to half the damage dealt.</special_3>
 					<special_4 type="string">5 Malice: The hag becomes a size 2 creature instead, from a bear to an ogre. While in this form, the hag’s melee abilities gain a +1 bonus to distance and deal an extra 4 damage.</special_4>
 					<special_6 type="string">A creature wearing a pastry or adjacent to a creature wearing a pastry can attempt an Agility test to remove the pastry as a maneuver.\n\n&lt;11 - The hag makes the power roll for all pastries.\n12-16 - The pastry is not removed.\n17+ - The pastry is removed and can no longer explode.</special_6>
@@ -21696,7 +21696,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -21792,7 +21792,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -21888,7 +21888,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -21984,7 +21984,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1T</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -22084,7 +22084,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: Each target who has [P&lt;2] is weakened (save ends). Any enemy who starts their turn within 3 squares of a target weakened this way and who has [P&lt;2] is weakened (save ends).</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Teleport</speedtype_name>
@@ -22186,7 +22186,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: One ally adjacent to the target can use their signature ability.</special>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
@@ -22288,7 +22288,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">8</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -22390,7 +22390,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">3</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">3 Malice: Each ally adjacent to a prone target can make a free strike against that target.</special>
 					<speed type="number">4</speed>
 					<stability type="number">4</stability>
@@ -22494,7 +22494,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">Two creatures or objects</target>
@@ -22595,7 +22595,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -22698,7 +22698,7 @@
 					<prs type="number">3</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Teleport</speedtype_name>
 					<stability type="number">4</stability>
@@ -22803,7 +22803,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Fly, Hover</speedtype_name>
 					<stability type="number">0</stability>
@@ -22917,7 +22917,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">3</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Hover, Teleport</speedtype_name>
 					<stability type="number">0</stability>
@@ -23030,7 +23030,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">3</stability>
@@ -23154,7 +23154,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">2</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: Each target is marked until the end of the encounter or until they die. The bloodlord’s allies gain an edge on strikes against any target marked this way. The bloodlord can have up to three targets marked this way. If they mark a new target who would exceed the limit, the oldest mark ends.</special>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Teleport</speedtype_name>
@@ -23262,7 +23262,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -23354,7 +23354,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -23445,7 +23445,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -23537,7 +23537,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -23629,7 +23629,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -23721,7 +23721,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -23818,7 +23818,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -23913,7 +23913,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -24009,7 +24009,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: The death cultist regains Stamina equal to half the damage dealt.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -24104,7 +24104,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: If this ability gains an edge or has a double edge, it deals an extra 2 damage.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -24201,7 +24201,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">5 Malice: The ability loses the Ranged and Strike keywords, takes the Area keyword, and is a 10 × 1 line within 15 that targets each enemy and object in the area.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -24298,7 +24298,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: This ability targets one additional target.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -24408,7 +24408,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">1 Malice: One ally within 10 squares can use their signature ability instead.</special>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
@@ -24529,7 +24529,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: This ability targets one additional target.</special>
 					<special_2 type="string">2 Malice: The ability takes the Area keyword, loses the Melee keyword, and is a 1 burst that targets each enemy in the area.</special_2>
 					<speed type="number">5</speed>
@@ -24639,7 +24639,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
 					<stability type="number">0</stability>
@@ -24761,7 +24761,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">-3</prs>
 					<rea type="number">-5</rea>
-					<size type="string">5</size>
+					<space type="number">5</space>
 					<special_3 type="string">2 Malice: When the kingfissure worm uses the Charge main action, they ignore difficult terrain and automatically destroy mundane size 3 and smaller objects in the path of their charge. The first time the kingfissure worm moves through a creature’s space during this charge, that creature takes 8 damage and is pushed up to 3 squares.</special_3>
 					<special_7 type="string">Each target must be on the ground.</special_7>
 					<speed type="number">10</speed>
@@ -24883,7 +24883,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -24975,7 +24975,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -25067,7 +25067,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -25160,7 +25160,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -25256,7 +25256,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -25353,7 +25353,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: If the legionary is acting as a captain, they and each member of their squad shift up to 2 squares before this ability is used.</special>
 					<speed type="number">2</speed>
 					<stability type="number">0</stability>
@@ -25453,7 +25453,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special_2 type="string">3 Malice: The artifex places a new trap in the encounter and can instantly trigger it. The artifex prefers working with angry beehives, flammable oil, snare traps, and spike traps (see Dynamic Terrain).</special_2>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -25552,7 +25552,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special type="string">2+ Malice: One additional ally can shift for each 2 Malice spent.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -25647,7 +25647,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: The venator lights their net on fire, and a target restrained this way takes 2 fire damage at the start of each of their turns.</special>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
@@ -25744,7 +25744,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">2 Malice: This ability targets one additional target.</special>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
@@ -25857,7 +25857,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<special type="string">3 Malice: While weakened this way, a target is also restrained.</special>
 					<special_2 type="string">3 Malice: While weakened this way, a target is also restrained. \n\n3+ Malice: This ability targets one additional target for each 3 Malice spent.</special_2>
 					<speed type="number">5</speed>
@@ -25971,7 +25971,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">If the drangolin is size 3, the distance becomes Melee 2.</special>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
@@ -26076,7 +26076,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">10</speed>
 					<stability type="number">1</stability>
 					<target type="string">One creature or object</target>
@@ -26183,7 +26183,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-3</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">10</speed>
 					<stability type="number">1</stability>
 					<target type="string">Two creatures or objects</target>
@@ -26280,7 +26280,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -26367,7 +26367,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -26454,7 +26454,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
 					<stability type="number">1</stability>
@@ -26543,7 +26543,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -26637,7 +26637,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -26732,7 +26732,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Swim</speedtype_name>
 					<stability type="number">0</stability>
@@ -26843,7 +26843,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">1 Malice: One target adjacent to the deathrex is grabbed in the deathrex’s mouth.</special>
 					<speed type="number">5</speed>
 					<speedtype_name type="string">Climb, Swim</speedtype_name>
@@ -26966,7 +26966,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_3 type="string">1 Malice: While weakened this way, a target takes 1d6 poison damage at the start of each of their turns.</special_3>
 					<speed type="number">10</speed>
 					<speedtype_name type="string">Fly</speedtype_name>
@@ -27105,7 +27105,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_3 type="string">3 Malice: The medusa targets two additional creatures or objects.</special_3>
 					<speed type="number">10</speed>
 					<stability type="number">5</stability>
@@ -27231,7 +27231,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">8</speed>
 					<stability type="number">2</stability>
 					<target type="string">Two creatures or objects</target>
@@ -27339,7 +27339,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_3 type="string">The target must be grabbed by the sunderer.</special_3>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
@@ -27437,7 +27437,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -27523,7 +27523,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">8</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -27609,7 +27609,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">8</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object per minion</target>
@@ -27698,7 +27698,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">3</size>
+					<space type="number">3</space>
 					<speed type="number">6</speed>
 					<stability type="number">5</stability>
 					<target type="string">Each enemy and object in the area</target>
@@ -27787,7 +27787,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">A creature or object used as a projectile is vertically pushed 8 (or 13 with a captain), ignoring stability.</special>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
@@ -27878,7 +27878,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">5</speed>
 					<stability type="number">4</stability>
 					<target type="string">One creature or object per minion</target>
@@ -27981,7 +27981,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<speed type="number">5</speed>
 					<stability type="number">4</stability>
 					<target type="string">Two creatures or objects</target>
@@ -28093,7 +28093,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special type="string">1 Malice: Each target who has [M&lt;1] is bleeding (save ends).</special>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
@@ -28226,7 +28226,7 @@
 					<organization_name type="string">Solo</organization_name>
 					<prs type="number">3</prs>
 					<rea type="number">4</rea>
-					<size type="string">2</size>
+					<space type="number">2</space>
 					<special_3 type="string">1 Malice: The area is difficult terrain. Any creature who enters the area or moves within it for the first time on a turn and has [A&lt;3] is knocked prone.</special_3>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Fly, Swim</speedtype_name>
@@ -28347,7 +28347,7 @@
 					<prs type="number">-3</prs>
 					<rea type="number">-4</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1S</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">1</stability>
@@ -28439,7 +28439,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">7</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -28528,7 +28528,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -28618,7 +28618,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -28708,7 +28708,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object per minion</target>
@@ -28798,7 +28798,7 @@
 					<prs type="number">1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Harrier</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">2 Malice: An ally targeted by this ability can make a free strike after the forced movement is resolved.</special>
 					<speed type="number">8</speed>
 					<stability type="number">0</stability>
@@ -28893,7 +28893,7 @@
 					<prs type="number">0</prs>
 					<rea type="number">1</rea>
 					<role_name type="string">Hexer</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object</target>
@@ -28994,7 +28994,7 @@
 					<prs type="number">-2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Artillery</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">expect name change in errata</special>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
@@ -29096,7 +29096,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Ambusher</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">5</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -29198,7 +29198,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Support</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special_2 type="string">3 Malice: The godcaller targets a second ally.</special_2>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
@@ -29295,7 +29295,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">-1</rea>
 					<role_name type="string">Brute</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">0</stability>
 					<target type="string">One creature or object</target>
@@ -29393,7 +29393,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">2</rea>
 					<role_name type="string">Defender</role_name>
-					<size type="string">1L</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
 					<target type="string">One creature or object</target>
@@ -29492,7 +29492,7 @@
 					<prs type="number">2</prs>
 					<rea type="number">0</rea>
 					<role_name type="string">Controller</role_name>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<speed type="number">6</speed>
 					<speedtype_name type="string">Burrow</speedtype_name>
 					<stability type="number">2</stability>
@@ -29610,7 +29610,7 @@
 					<organization_name type="string">Leader</organization_name>
 					<prs type="number">2</prs>
 					<rea type="number">1</rea>
-					<size type="string">1M</size>
+					<space type="number">1</space>
 					<special type="string">1 Malice: The warleader targets two allies. \n\n3 Malice: The warleader targets one ally and a minion squad.</special>
 					<speed type="number">6</speed>
 					<stability type="number">2</stability>
@@ -29733,7 +29733,7 @@
 					<prs type="number">-1</prs>
 					<rea type="number">-4</rea>
 					<role_name type="string">Mount</role_name>
-					<size type="string">4</size>
+					<space type="number">4</space>
 					<speed type="number">6</speed>
 					<stability type="number">3</stability>
 					<target type="string">Two creatures or objects</target>
@@ -29841,7 +29841,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">0</stability>
@@ -29933,7 +29933,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">0</stability>
@@ -30025,7 +30025,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">1</stability>
@@ -30117,7 +30117,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">0</stability>
@@ -30214,7 +30214,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<special_2 type="string">2 Malice: The area increases to a 6 burst.</special_2>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
@@ -30314,7 +30314,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">2</stability>
@@ -30416,7 +30416,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">0</stability>
@@ -30526,7 +30526,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">3</prs>
 				<rea type="number">0</rea>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<special_2 type="string">3 Malice: Each ally within 3 squares of any target has a +2 bonus to speed until the end of their next turn.</special_2>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
@@ -30634,7 +30634,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">Two creatures or objects</target>
@@ -30730,7 +30730,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">Two creatures or objects</target>
@@ -30829,7 +30829,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: Each target who has [M&lt;1] is slowed (save ends).</special>
 				<speed type="number">5</speed>
 				<stability type="number">3</stability>
@@ -30926,7 +30926,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">3</stability>
 				<target type="string">Two creatures or objects</target>
@@ -31021,7 +31021,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: The shadow can teleport up to 5 squares, then can attempt to hide.</special>
 				<speed type="number">7</speed>
 				<stability type="number">1</stability>
@@ -31119,7 +31119,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: Two allies within distance can make a free strike against one of the targets.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -31222,7 +31222,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<target type="string">Two creatures or objects</target>
@@ -31322,7 +31322,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">Two creatures or objects</target>
@@ -31419,7 +31419,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">Two creatures or objects</target>
@@ -31518,7 +31518,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: Each target who has [M&lt;2] is slowed (save ends).</special>
 				<speed type="number">5</speed>
 				<stability type="number">3</stability>
@@ -31617,7 +31617,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: The shadow can teleport up to 6 squares, then can attempt to hide.</special>
 				<speed type="number">7</speed>
 				<stability type="number">1</stability>
@@ -31711,7 +31711,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">3</stability>
 				<target type="string">Two creatures or objects</target>
@@ -31811,7 +31811,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">3 Malice: Two allies within distance can use a signature ability against the same target.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -31914,7 +31914,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<target type="string">Two creatures or objects</target>
@@ -32014,7 +32014,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">Two creatures or objects</target>
@@ -32112,7 +32112,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">Two creatures or objects</target>
@@ -32211,7 +32211,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">3 Malice: Each target who has [M&lt;3] is bleeding and slowed (save ends).</special>
 				<speed type="number">5</speed>
 				<stability type="number">3</stability>
@@ -32307,7 +32307,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">3</stability>
 				<target type="string">Two creatures or objects</target>
@@ -32402,7 +32402,7 @@
 				<prs type="number">3</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: The shadow can teleport up to 7 squares, then can attempt to hide.</special>
 				<speed type="number">7</speed>
 				<stability type="number">1</stability>
@@ -32500,7 +32500,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">4 Malice: Two allies within distance move up to their speed and can use a signature ability.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -32604,7 +32604,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<target type="string">Two creatures or objects</target>
@@ -32704,7 +32704,7 @@
 				<prs type="number">3</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: Two additional allies within distance regain the same amount of Stamina.</special>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
@@ -32803,7 +32803,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">5</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">Two creatures or objects</target>
@@ -32899,7 +32899,7 @@
 				<prs type="number">3</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: Each target who has [M&lt;4] is bleeding and slowed (save ends).</special>
 				<speed type="number">5</speed>
 				<stability type="number">3</stability>
@@ -32996,7 +32996,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">3</stability>
 				<target type="string">Two creatures or objects</target>
@@ -33091,7 +33091,7 @@
 				<prs type="number">4</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: The shadow can teleport up to 10 squares, then can attempt to hide.</special>
 				<speed type="number">7</speed>
 				<stability type="number">1</stability>
@@ -33189,7 +33189,7 @@
 				<prs type="number">3</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">5 Malice: Two allies within distance move up to their speed and can use a signature ability that has a double edge.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -33292,7 +33292,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">5</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">4 Malice: Each target moves up to their speed and can make a free strike against one enemy of the talent’s choice. The target’s movement can provoke opportunity attacks, but they can’t otherwise be moved in a way that would harm them.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -33412,7 +33412,7 @@
 				<organization_name type="string">Solo</organization_name>
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<special_2 type="string">2 Malice: The shambling mound can slide each target up to 6 squares. \n\n3 Malice: Each target takes 7 poison damage.</special_2>
 				<special_4 type="string">2+ Malice: The shambling mound can engulf one additional target for each 2 Malice spent.</special_4>
 				<speed type="number">3</speed>
@@ -33531,7 +33531,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object per minion</target>
@@ -33623,7 +33623,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object per minion</target>
@@ -33718,7 +33718,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: A creature weakened this way is also bleeding.</special>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
@@ -33822,7 +33822,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">3</stability>
 				<target type="string">Each enemy in the area</target>
@@ -33919,7 +33919,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">3 Malice: The helix creates a second kinetic lane.</special_2>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly</speedtype_name>
@@ -34018,7 +34018,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature</target>
@@ -34116,7 +34116,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<target type="string">Two creatures adjacent to each other</target>
@@ -34217,7 +34217,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Fly</speedtype_name>
 				<stability type="number">0</stability>
@@ -34323,7 +34323,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">2</stability>
@@ -34440,7 +34440,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">0</prs>
 				<rea type="number">3</rea>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special_3 type="string">2 Malice: The strike has a double bane instead.</special_3>
 				<speed type="number">10</speed>
 				<speedtype_name type="string">Hover, Teleport</speedtype_name>
@@ -34540,7 +34540,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object per minion</target>
@@ -34627,7 +34627,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<stability type="number">3</stability>
 				<target type="string">One creature or object per minion</target>
@@ -34726,7 +34726,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special type="string">1 Malice: The butcher regains Stamina equal to the damage dealt.</special>
 				<speed type="number">8</speed>
 				<stability type="number">2</stability>
@@ -34836,7 +34836,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special type="string">1 Malice: The glutton regains Stamina equal to the damage dealt.</special>
 				<speed type="number">6</speed>
 				<stability type="number">4</stability>
@@ -34932,7 +34932,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">6</speed>
 				<stability type="number">4</stability>
 				<target type="string">One creature or object per minion</target>
@@ -35020,7 +35020,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">8</speed>
 				<stability type="number">2</stability>
 				<target type="string">One creature or object per minion</target>
@@ -35113,7 +35113,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">-5</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1T</size>
+				<space type="number">1</space>
 				<speed type="number">0</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">0</stability>
@@ -35205,7 +35205,7 @@
 				<prs type="number">-3</prs>
 				<rea type="number">-5</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">4</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object per minion</target>
@@ -35297,7 +35297,7 @@
 				<prs type="number">-2</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object per minion</target>
@@ -35388,7 +35388,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">1</stability>
@@ -35483,7 +35483,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object</target>
@@ -35581,7 +35581,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object</target>
@@ -35678,7 +35678,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: The potency increases by 1. Any living creature who dies from this damage rises at the start of the next round in the target’s space as a specter under the Director’s control.</special>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
@@ -35777,7 +35777,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object</target>
@@ -35876,7 +35876,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">1</stability>
@@ -35979,7 +35979,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">-5</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">One creature or object</target>
@@ -36095,7 +36095,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">3</prs>
 				<rea type="number">0</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">2 Malice: The ghost chooses one additional target.</special_2>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
@@ -36216,7 +36216,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object per minion</target>
@@ -36319,7 +36319,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">0</stability>
@@ -36423,7 +36423,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<target type="string">One creature or object per minion</target>
@@ -36529,7 +36529,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special type="string">1 Malice: This ability targets one additional target.</special>
 				<speed type="number">6</speed>
 				<stability type="number">2</stability>
@@ -36645,7 +36645,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<target type="string">One creature or object</target>
@@ -36757,7 +36757,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<speed type="number">6</speed>
 				<stability type="number">2</stability>
 				<target type="string">Two creatures or objects</target>
@@ -36864,7 +36864,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: The target takes an additional 3 corruption damage.</special>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
@@ -36976,7 +36976,7 @@
 				<prs type="number">3</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">8</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">1</stability>
@@ -37101,7 +37101,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">2</prs>
 				<rea type="number">2</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">2+ Malice: This ability targets one additional target for each 2 Malice spent.</special_2>
 				<speed type="number">6</speed>
 				<stability type="number">4</stability>
@@ -37229,7 +37229,7 @@
 				<prs type="number">-3</prs>
 				<rea type="number">-3</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">0</stability>
@@ -37334,7 +37334,7 @@
 				<prs type="number">-3</prs>
 				<rea type="number">-5</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">1</stability>
@@ -37438,7 +37438,7 @@
 				<prs type="number">-2</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">One creature or object per minion</target>
@@ -37548,7 +37548,7 @@
 				<prs type="number">-3</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Burrow, Climb</speedtype_name>
 				<stability type="number">3</stability>
@@ -37663,7 +37663,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">1</stability>
@@ -37776,7 +37776,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<target type="string">One creature or object</target>
@@ -37888,7 +37888,7 @@
 				<prs type="number">-2</prs>
 				<rea type="number">-4</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">The waxen is then destroyed and the area is difficult terrain for enemies.</special_2>
 				<speed type="number">4</speed>
 				<stability type="number">2</stability>
@@ -38006,7 +38006,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
 				<stability type="number">3</stability>
@@ -38142,7 +38142,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">2</prs>
 				<rea type="number">1</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2+ Malice: The vampire shifts 3 after striking the last target, and can target one additional creature for every 2 malice spent.</special>
 				<special_7 type="string">Only usable as part of Sacrifice villian action</special_7>
 				<speed type="number">12</speed>
@@ -38262,7 +38262,7 @@
 				<prs type="number">-2</prs>
 				<rea type="number">-3</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<speed type="number">4</speed>
 				<stability type="number">5</stability>
 				<target type="string">One creature or object per minion</target>
@@ -38363,7 +38363,7 @@
 				<prs type="number">-2</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<target type="string">One creature or object per minion</target>
@@ -38465,7 +38465,7 @@
 				<prs type="number">5</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">1</stability>
@@ -38570,7 +38570,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<special type="string">3 Malice: While grabbed this way, a target can’t teleport or be teleported.</special>
 				<special_2 type="string">The area is difficult terrain for enemies. The effect ends at the end of the encounter or when the bonecage uses this ability again.</special_2>
 				<speed type="number">6</speed>
@@ -38681,7 +38681,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">5</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">1</stability>
@@ -38817,7 +38817,7 @@
 				<organization_name type="string">Solo</organization_name>
 				<prs type="number">3</prs>
 				<rea type="number">2</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_3 type="string">While a target is frightened this way, Rhodar ignores banes and double banes on abilities used against them.</special_3>
 				<special_9 type="string">Rhodar teleports to an unoccupied space in the area. If he has lost the damage immunity from his Grave Ward trait, he regains it.</special_9>
 				<speed type="number">12</speed>
@@ -38977,7 +38977,7 @@
 				<organization_name type="string">Solo</organization_name>
 				<prs type="number">5</prs>
 				<rea type="number">5</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_3 type="string">3 Malice: The distance of this ability increases to a 20 burst and its potency increases by 1.</special_3>
 				<special_4 type="string">3 Malice: The lich chooses one additional target. \n\n2+ Malice: Each creature wracked with pain gains one of the following conditions of the lich’s choice for each 2 Malice spent: bleeding, slowed, or prone and can’t stand. These conditions end when a creature is no longer wracked with pain.</special_4>
 				<special_7 type="string">The lich deals an additional 10 corruption damage to each creature restrained this way.</special_7>
@@ -39129,7 +39129,7 @@
 				<prs type="number">-4</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special_3 type="string">This ability targets only metal-clad enemies and metal objects of size 3 or smaller.</special_3>
 				<speed type="number">5</speed>
 				<stability type="number">5</stability>
@@ -39264,7 +39264,7 @@
 				<prs type="number">-3</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">3</stability>
 				<stamina>
@@ -39403,7 +39403,7 @@
 				<prs type="number">-5</prs>
 				<rea type="number">-4</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<speed type="number">5</speed>
 				<stability type="number">8</stability>
 				<stamina>
@@ -39549,7 +39549,7 @@
 				<prs type="number">-5</prs>
 				<rea type="number">-4</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special_2 type="string">The area is difficult terrain.</special_2>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Burrow, Climb</speedtype_name>
@@ -39693,7 +39693,7 @@
 				<prs type="number">-5</prs>
 				<rea type="number">-4</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<special_4 type="string">A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficult terrain and any enemy takes 3 fire damage for each square of the area they enter.</special_4>
 				<speed type="number">5</speed>
 				<stability type="number">8</stability>
@@ -39827,7 +39827,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">4</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">0</stability>
@@ -39940,7 +39940,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -40060,7 +40060,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<special type="string">The hulking brain can have up to four size 1 creatures grabbed. \n\n2 Malice: The potency increases by 1.</special>
 				<special_4 type="string">2 Malice: The enemy is knocked prone.</special_4>
 				<speed type="number">5</speed>
@@ -40194,7 +40194,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<special_4 type="string">3 Malice: A grabbed creature takes the damage instead of the mindkiller.</special_4>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
@@ -40329,7 +40329,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: Each enemy within the strike spread takes an extra 3 damage.</special>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Hover, Teleport</speedtype_name>
@@ -40462,7 +40462,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">2 Malice: The size of the burst increases to 5.</special_2>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Hover, Teleport</speedtype_name>
@@ -40605,7 +40605,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">2</prs>
 				<rea type="number">4</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Hover, Teleport</speedtype_name>
 				<stability type="number">2</stability>
@@ -40759,7 +40759,7 @@
 				<organization_name type="string">Solo</organization_name>
 				<prs type="number">3</prs>
 				<rea type="number">4</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">2 Malice: The distance of this ability increases to melee 10. Each target grabbed by Lord Syuul is pulled up to 10 squares.</special_2>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Hover, Teleport</speedtype_name>
@@ -40893,7 +40893,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -41002,7 +41002,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -41108,7 +41108,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -41214,7 +41214,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<stamina>
@@ -41324,7 +41324,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special type="string">3 Malice: The amalgamite deals 3 damage to each creature grabbed this way or who they already have grabbed, and regains Stamina equal to the damage dealt.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -41436,7 +41436,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">3 Malice: The area becomes a 10 × 1 line, and if any ally of the crucibite is in the area when it is created, the ability deals an extra 2 damage to each target.</special>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
@@ -41547,7 +41547,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -41662,7 +41662,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly</speedtype_name>
 				<stability type="number">0</stability>
@@ -41776,7 +41776,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -41887,7 +41887,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">A creature adjacent to the target can attempt an Agility test as a maneuver to remove the detonator.\n&lt;12     No effect.\n12-16  The detonator is disarmed and destroyed.\n17+      The creature can attach the detonator to another creature or object within 5 squares of them.</special>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
@@ -42003,7 +42003,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: The teletalite teleports the target 3 squares before sliding them.</special>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Teleport</speedtype_name>
@@ -42118,7 +42118,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -42245,7 +42245,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">2</prs>
 				<rea type="number">3</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: A target who has [I&lt;2] and who is adjacent to the ground commander after this ability is resolved is grabbed (save ends). This grab can’t be escaped using the Escape Grab maneuver. The ground commander can grab up to two creatures at a time.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -42370,7 +42370,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -42482,7 +42482,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -42595,7 +42595,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb, Swim</speedtype_name>
 				<stability type="number">0</stability>
@@ -42713,7 +42713,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: The arachnite can use this ability as if they were in the space of any ally within distance.</special>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Climb</speedtype_name>
@@ -42833,7 +42833,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<stamina>
@@ -42952,7 +42952,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">8</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -43070,7 +43070,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special type="string">2 Malice: The ability deals an extra 3 fire damage to the target and each enemy adjacent to the target.</special>
 				<speed type="number">8</speed>
 				<stability type="number">2</stability>
@@ -43191,7 +43191,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">2 Malice: The mischievite can use this ability as a triggered action when they are targeted by an ability. If they do, the swapped target becomes the new target of the triggering ability.</special_2>
 				<speed type="number">6</speed>
 				<stability type="number">0</stability>
@@ -43309,7 +43309,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">3 Malice: If an affected enemy is adjacent to any corpse, they are frightened of the thanatite (save ends).</special>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
@@ -43428,7 +43428,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -43553,7 +43553,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">1</stability>
 				<stamina>
@@ -43687,7 +43687,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">4</prs>
 				<rea type="number">2</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">3 Malice: Each target loses 1d3 Recoveries.</special>
 				<speed type="number">7</speed>
 				<stability type="number">2</stability>
@@ -43816,7 +43816,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">-2</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
 				<stamina>
@@ -43928,7 +43928,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -44040,7 +44040,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -44156,7 +44156,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">1 Malice: An enemy force moved by this ability is grabbed instead.</special>
 				<speed type="number">8</speed>
 				<speedtype_name type="string">Fly</speedtype_name>
@@ -44280,7 +44280,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<speed type="number">0</speed>
 				<stability type="number">5</stability>
 				<stamina>
@@ -44398,7 +44398,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">6</speed>
 				<speedtype_name type="string">Teleport</speedtype_name>
 				<stability type="number">0</stability>
@@ -44517,7 +44517,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -44635,7 +44635,7 @@
 				<prs type="number">3</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">5</speed>
 				<stability type="number">4</stability>
 				<stamina>
@@ -44753,7 +44753,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved.</special>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Burrow</speedtype_name>
@@ -44873,7 +44873,7 @@
 				<prs type="number">4</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Support</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">Can spend extra malice for additional effects</special_2>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
@@ -44993,7 +44993,7 @@
 				<prs type="number">3</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">2</stability>
@@ -45129,7 +45129,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">3</prs>
 				<rea type="number">5</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: The lighting spread increases by 2 squares. Additionally, any creature who takes lightning damage from this ability and who has [M&lt;4] is slowed until the end of their next turn.</special>
 				<special_6 type="string">See Thunderstruck. Additionally, until the end of the encounter, any enemy who moves within 3 squares of the taxiarch for the first time in a round or starts their turn there takes 3 lightning damage.</special_6>
 				<speed type="number">7</speed>
@@ -45263,7 +45263,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">2</rea>
 				<role_name type="string">Harrier</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Fly</speedtype_name>
 				<stability type="number">2</stability>
@@ -45383,7 +45383,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -45502,7 +45502,7 @@
 				<prs type="number">5</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">0</stability>
 				<stamina>
@@ -45635,7 +45635,7 @@
 				<prs type="number">4</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<stability type="number">3</stability>
 				<stamina>
@@ -45776,7 +45776,7 @@
 				<prs type="number">2</prs>
 				<rea type="number">1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">1L</size>
+				<space type="number">1</space>
 				<special type="string">3 Malice: This ability targets one additional target.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -45919,7 +45919,7 @@
 				<prs type="number">1</prs>
 				<rea type="number">5</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special type="string">This ability targets only non-prone creatures.</special>
 				<special_3 type="string">2 Malice: The area remains active and deals its damage until Vesper is reduced to 0 Stamina or until the end of the encounter. Any creature who enters the area and has [A&lt;4] is pulled 3 squares toward the center of the area. Any creature who starts their turn in the area and has [M&lt;4] is slowed until the end of their turn.</special_3>
 				<speed type="number">10</speed>
@@ -46071,7 +46071,7 @@
 				<prs type="number">5</prs>
 				<rea type="number">3</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">1 Malice: Until the start of Psyche’s next turn, if this ability makes a creature weakened, that creature is also soulbound (save ends; see Soulbind above).</special_2>
 				<special_5 type="string">1 Malice: The target also takes a bane on their next strike.</special_5>
 				<special_6 type="string">Only usable as part of the Immortal Soul Trait</special_6>
@@ -46226,7 +46226,7 @@
 				<organization_name type="string">Leader</organization_name>
 				<prs type="number">5</prs>
 				<rea type="number">5</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special type="string">2 Malice: When a target is made bleeding this way, each ally adjacent to them can make a free strike against the target.</special>
 				<speed type="number">5</speed>
 				<stability type="number">2</stability>
@@ -46373,7 +46373,7 @@
 				<patience type="number">0</patience>
 				<prs type="number">1</prs>
 				<rea type="number">-1</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<special_2 type="string">2 Malice: If the target has [P &lt; 0], they are afflicted with lycanthropy. Each time the target is unaffected by the potency effect, the potency increases by 1 the next time the werewolf uses the ability against the same target. A creature afflicted with lycanthropy gains 2 rage at the end of each of their turns whenever they’re in combat. Their rage doesn’t disappear after finishing a respite, and they must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect.</special_2>
 				<special_7 type="string">Any enemy in the encounter who has 1 or more rage gains 4 rage and howls along with the werewolf.</special_7>
 				<speed type="number">7</speed>
@@ -46515,7 +46515,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Ambusher</role_name>
-				<size type="string">2</size>
+				<space type="number">2</space>
 				<special type="string">1 Malice: One target hidden from the lurker takes an extra 6 acid damage.</special>
 				<speed type="number">9</speed>
 				<speedtype_name type="string">Fly</speedtype_name>
@@ -46641,7 +46641,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">-1</rea>
 				<role_name type="string">Brute</role_name>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<speed type="number">7</speed>
 				<speedtype_name type="string">Fly</speedtype_name>
 				<stability type="number">3</stability>
@@ -46791,7 +46791,7 @@
 				<organization_name type="string">Solo</organization_name>
 				<prs type="number">3</prs>
 				<rea type="number">4</rea>
-				<size type="string">3</size>
+				<space type="number">3</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">2</stability>
@@ -46923,7 +46923,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">0</stability>
@@ -47033,7 +47033,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">0</stability>
@@ -47142,7 +47142,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">0</stability>
@@ -47252,7 +47252,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">0</stability>
@@ -47361,7 +47361,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Artillery</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">0</stability>
@@ -47470,7 +47470,7 @@
 				<prs type="number">-1</prs>
 				<rea type="number">4</rea>
 				<role_name type="string">Controller</role_name>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">5</speed>
 				<speedtype_name type="string">Fly, Hover</speedtype_name>
 				<stability type="number">0</stability>
@@ -47549,7 +47549,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1S</size>
+				<space type="number">1</space>
 				<speed type="number">0</speed>
 				<stability type="number">0</stability>
 				<traits_name1 type="string">A creature enters the hive’s space or an adjacent space\nwithout shifting.</traits_name1>
@@ -47620,7 +47620,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Defender</role_name>
-				<size type="string">1</size>
+				<space type="number">1</space>
 				<speed type="number">0</speed>
 				<stability type="number">0</stability>
 				<traits_name1 type="string">Each square of brambles must be individually destroyed.</traits_name1>
@@ -47690,7 +47690,7 @@
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
 				<role_name type="string">Hexer</role_name>
-				<size type="string">1</size>
+				<space type="number">1</space>
 				<speed type="number">0</speed>
 				<stability type="number">0</stability>
 				<traits_name1 type="string">A creature enters the hive’s space or an adjacent space\nwithout shifting.</traits_name1>
@@ -47711,7 +47711,7 @@
 				<mgt type="number">0</mgt>
 				<prs type="number">0</prs>
 				<rea type="number">0</rea>
-				<size type="string">1M</size>
+				<space type="number">1</space>
 				<speed type="number">0</speed>
 				<stability type="number">0</stability>
 			</id-10004>
