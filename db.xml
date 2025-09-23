@@ -1955,6 +1955,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Hop and Chop 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">The cleaver jumps up to 4 squares before or after making this strike.</effect>
@@ -2053,6 +2054,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Nip 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<ev type="number">3</ev>
@@ -2147,6 +2149,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Poison Dart 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 8</distance>
 					<effect type="string">The dart gains an edge on this ability against any target who has less than full Stamina.</effect>
@@ -2242,6 +2245,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Hookclaw 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">Any target grabbed this way takes 2 lightning damage at the start of each of their turns.</effect>
@@ -2337,6 +2341,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Blowgun 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 15</distance>
 					<ev type="number">3</ev>
@@ -2431,6 +2436,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Tonguelash 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Hop To It</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 6</distance>
@@ -2532,6 +2538,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Refulgent Beams 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Noxious Bubble</abilityname_ability_2>
 					<agl type="number">0</agl>
 					<distance type="string">Ranged 8</distance>
@@ -2634,6 +2641,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Acid Grasp 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Sun Lamp</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Tongue Slap</abilityname_ability_3>
 					<abilityname_ability_4 type="string">New Dawn</abilityname_ability_4>
@@ -2762,6 +2770,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Natural Weapon 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Rush</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
@@ -2963,6 +2972,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Flurry 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Impede</abilityname_ability_2>
 					<agl type="number">1</agl>
 					<distance type="string">Melee 1</distance>
@@ -3164,6 +3174,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Natural Weapon 2d10+2 (Signature Weapon)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Toss</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Juke</abilityname_ability_3>
 					<agl type="number">2</agl>
@@ -3369,6 +3380,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Natural Weapon 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Trundle</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Animal Rally</abilityname_ability_3>
 					<agl type="number">1</agl>
@@ -3574,6 +3586,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Natural Weapon 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Ready to Strike</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Quick Strike</abilityname_ability_3>
 					<agl type="number">2</agl>
@@ -3782,13 +3795,18 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Solo Monster</abilityname_ability>
 					<abilityname_ability_10 type="string">Acid and Claws 2d10+3</abilityname_ability_10>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Bite 2d10+3 (Signature Ability)</abilityname_ability_2>
+					<mod_2 type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Claw Swing 2d10+3</abilityname_ability_3>
+					<mod_3 type="number">3</mod_3>
 					<abilityname_ability_4 type="string">Spitfire 2d10+3</abilityname_ability_4>
+					<mod_4 type="number">3</mod_4>
 					<abilityname_ability_5 type="string">Dirt Devil</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Dust Cloud</abilityname_ability_6>
 					<abilityname_ability_7 type="string">Skitter</abilityname_ability_7>
 					<abilityname_ability_8 type="string">Acid Spew 2d10+3</abilityname_ability_8>
+					<mod_8 type="number">3</mod_8>
 					<abilityname_ability_9 type="string">Sinkhole</abilityname_ability_9>
 					<agl type="number">1</agl>
 					<distance_10 type="string">2 burst</distance_10>
@@ -3934,6 +3952,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Natural Weapon 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Wild Swing</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Swat</abilityname_ability_3>
 					<agl type="number">1</agl>
@@ -4148,11 +4167,15 @@
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<ability_cost_string_9 type="string">Malice</ability_cost_string_9>
 					<abilityname_ability type="string">Blade of the Gol King 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod type="number">5</mod>
 					<abilityname_ability_10 type="string">Phoenix Wing King 2d10+5 (Signature Ability)</abilityname_ability_10>
+					<mod_10 type="number">5</mod_10>
 					<abilityname_ability_11 type="string">I’ve Learned Their Tricks</abilityname_ability_11>
 					<abilityname_ability_12 type="string">Awe of the Iron Crown</abilityname_ability_12>
 					<abilityname_ability_2 type="string">Decree by the Jade Hand 2d10+5</abilityname_ability_2>
+					<mod_2 type="number">5</mod_2>
 					<abilityname_ability_3 type="string">Divine Vine 2d10+5</abilityname_ability_3>
+					<mod_3 type="number">3</mod_3>
 					<abilityname_ability_4 type="string">Bead of Hell</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Is This What They Taught You?</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Shieldbreaker Talisman</abilityname_ability_6>
@@ -4333,11 +4356,14 @@
 					<ability_cost_string_6 type="string">Malice</ability_cost_string_6>
 					<abilityname_ability type="string">Solo Monster</abilityname_ability>
 					<abilityname_ability_2 type="string">Claw and Blade 2d10+4 (Signature Ability)</abilityname_ability_2>
+					<mod_2 type="number">4</mod_2>
 					<abilityname_ability_3 type="string">Corpse Bomb 2d10+4</abilityname_ability_3>
+					<mod_3 type="number">4</mod_3>
 					<abilityname_ability_4 type="string">Impale</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Bone Dozer</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Armor of Corpses</abilityname_ability_6>
 					<abilityname_ability_7 type="string">Skeletal Eruption 2d10+4</abilityname_ability_7>
+					<mod_7 type="number">4</mod_7>
 					<abilityname_ability_8 type="string">Mobile Mine Field</abilityname_ability_8>
 					<abilityname_ability_9 type="string">Ossuary Assault</abilityname_ability_9>
 					<agl type="number">-2</agl>
@@ -4474,8 +4500,11 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Noxious Bite 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Petrifying Eye Beams 2d10+2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<abilityname_ability_3 type="string">Poison Fumes 2d10+2</abilityname_ability_3>
+					<mod_3 type="number">2</mod_3>
 					<abilityname_ability_4 type="string">Lash Out</abilityname_ability_4>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 1</distance>
@@ -4589,6 +4618,9 @@
 					<abilityname_ability_2 type="string">Petrifying Eye Beams 2d10+2</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Wink 2d10+2</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Neurotoxin Splash</abilityname_ability_4>
+					<mod type="number">3</mod>
+					<mod_2 type="number">3</mod_2>
+					<mod_3 type="number">3</mod_3>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 3</distance>
 					<distance_2 type="string">5×2 line within 1</distance_2>
@@ -4710,6 +4742,11 @@
 					<abilityname_ability_7 type="string">Turn Green 2d10+3</abilityname_ability_7>
 					<abilityname_ability_8 type="string">Challenge</abilityname_ability_8>
 					<abilityname_ability_9 type="string">Headlam Rampage 2d10+3</abilityname_ability_9>
+					<mod_2 type="number">3</mod_2>
+					<mod_3 type="number">3</mod_3>
+					<mod_5 type="number">3</mod_5>
+					<mod_7 type="number">3</mod_7>
+					<mod_9 type="number">3</mod_9>
 					<agl type="number">0</agl>
 					<distance_2 type="string">2 burst</distance_2>
 					<distance_3 type="string">Melee 2</distance_3>
@@ -4849,8 +4886,11 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Shadow Drag 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Blistering Element 2d10+2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<abilityname_ability_3 type="string">Twist Shape 2d10+2</abilityname_ability_3>
+					<mod_3 type="number">2</mod_3>
 					<abilityname_ability_4 type="string">Throw</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Catcher</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Shadow Veil</abilityname_ability_6>
@@ -4976,6 +5016,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Inspiring Swordplay 2d10+2 Signature Ability</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">You Next!</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Fall Back!</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Throw</abilityname_ability_4>
@@ -5089,7 +5130,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Haymaker 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Leaping Fury 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<abilityname_ability_3 type="string">Drag Through Hell</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Throw</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Catcher</abilityname_ability_5>
@@ -5212,8 +5255,11 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_6 type="string">Malice</ability_cost_string_6>
 					<abilityname_ability type="string">Sucker Punch 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Shadow Cloak 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<abilityname_ability_3 type="string">Carving Dagger 2d10+2</abilityname_ability_3>
+					<mod_3  type="number">2</mod_3>
 					<abilityname_ability_4 type="string">Throw</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Catcher</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Clever Trick</abilityname_ability_6>
@@ -5335,6 +5381,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Corrosive Blade 2d10+4 (Signature Ability)</abilityname_ability>
 					<agl type="number">3</agl>
+					<mod  type="number">4</mod>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">A target grabbed this way or already grabbed by the knightmare can be vertical pushed up to 5 squares.</effect>
 					<ev type="number">10</ev>
@@ -5424,6 +5471,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Mug and Tear 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">-1</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">If the target is pulled into the mob, that forced movement deals damage only at the Director’s determination.</effect>
@@ -5512,6 +5560,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Cut ’Em Low! 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">If the snare started their turn hidden from the target, the target is automatically grabbed. A target grabbed this way or already grabbed by the snare can be vertical pushed up to 4 squares.</effect>
@@ -5583,11 +5632,17 @@
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Solo Monster</abilityname_ability>
 					<abilityname_ability_2 type="string">Bite 2d10+3 (Signature Ability)</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Dragon’s Eruption 2d10+3</abilityname_ability_3>
+					<mod_3  type="number">3</mod_3>
 					<abilityname_ability_4 type="string">Roar 2d10+3</abilityname_ability_4>
+					<mod_4  type="number">3</mod_4>
 					<abilityname_ability_5 type="string">Lion’s Toss 2d10+3</abilityname_ability_5>
+					<mod_5  type="number">3</mod_5>
 					<abilityname_ability_6 type="string">Ram’s Defiance 2d10+3</abilityname_ability_6>
+					<mod_6  type="number">3</mod_6>
 					<abilityname_ability_7 type="string">Overture of Destruction 2d10+3</abilityname_ability_7>
+					<mod_7  type="number">3</mod_7>
 					<abilityname_ability_8 type="string">Fire Solo</abilityname_ability_8>
 					<abilityname_ability_9 type="string">Chorus of Destruction</abilityname_ability_9>
 					<agl type="number">2</agl>
@@ -5722,6 +5777,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Barbed Tongues 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 3</distance>
 					<effect type="string">If the target is pulled adjacent to the ensnarer, the ensnarer can make a free strike against them.</effect>
@@ -5814,6 +5870,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Spit 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 10</distance>
 					<ev type="number">3</ev>
@@ -5908,6 +5965,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Rip and Tear 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<ev type="number">3</ev>
@@ -6000,7 +6058,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Warp Perceptions 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Vanish 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">1</agl>
 					<distance type="string">Ranged 10</distance>
 					<distance_2 type="string">Ranged 10</distance_2>
@@ -6099,6 +6159,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Barbed Tongues 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Tongue Pull</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 2</distance>
@@ -6198,6 +6259,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Abyssal Strike 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Grasping Shadow</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
@@ -6298,7 +6360,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Bloodletting Claws 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Salt Wounds 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<distance_2 type="string">Ranged 10</distance_2>
@@ -6398,6 +6462,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Floor to Flesh 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Grasping Tendons</abilityname_ability_2>
 					<agl type="number">1</agl>
 					<distance type="string">3 cube within 10</distance>
@@ -6497,6 +6562,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Agonizing Harmony 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Chaotic Entrancing Harmony</abilityname_ability_2>
 					<abilityname_ability_3 type="string">I Thrive on Pain</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Frightening Tones</abilityname_ability_4>
@@ -6621,6 +6687,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Spinning Bone Blade 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">The grulqin gains an edge on this ability if they previously moved 3 or more squares in a straight line on their turn.</effect>
@@ -6714,6 +6781,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Soul Prism 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Melee 1</distance>
 					<ev type="number">6</ev>
@@ -6809,6 +6877,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Despair Bolt 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Ranged 20</distance>
 					<effect type="string">The target takes a bane on their next strike. If the target is winded, they have a double bane on their next strike instead.</effect>
@@ -6901,7 +6970,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Wilting Visions 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Demonwarp Tears 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">Ranged 15</distance>
 					<distance_2 type="string">4 cube within 5</distance_2>
@@ -7006,7 +7077,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Tooth! Tusk! Claw! 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Tumbling Gore 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<distance_2 type="string">8 × 3 line within 1</distance_2>
@@ -7110,6 +7183,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Violent Transformation 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Aggressive Mimicry</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">2 burst</distance>
@@ -7210,6 +7284,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Bilious Expulsion 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Spew Slide</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">1 burst, or 3 cube within 5</distance>
@@ -7310,7 +7385,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Many Maws 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Agony Wail 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 1</distance>
 					<distance_2 type="string">3 burst</distance_2>
@@ -7414,11 +7491,14 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Ensnarer Cannon 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<abilityname_ability_2 type="string">Demonic Egress</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Abyssal Protectors</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Frenzied Deluge 2d10+4</abilityname_ability_4>
+					<mod_4  type="number">4</mod_4>
 					<abilityname_ability_5 type="string">Fold Space</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Blood of the Abyss 2d10+4</abilityname_ability_6>
+					<mod_6  type="number">4</mod_6>
 					<agl type="number">-1</agl>
 					<distance type="string">Ranged 10</distance>
 					<distance_2 type="string">3 burst</distance_2>
@@ -7541,6 +7621,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Soul Stinger 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<agl type="number">4</agl>
 					<distance type="string">Melee 1</distance>
 					<ev type="number">9</ev>
@@ -7635,6 +7716,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Chitin Bash 2d10+4 Signature Ability</abilityname_ability>
+					<mod  type="number">4</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<ev type="number">9</ev>
@@ -7728,6 +7810,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Barb Launch 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<agl type="number">-1</agl>
 					<distance type="string">Ranged 20</distance>
 					<effect type="string">All soulraker demons have concealment from the target until the start of the stinger’s next turn.</effect>
@@ -7824,6 +7907,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Blight Pus 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<abilityname_ability_2 type="string">Blight Rain</abilityname_ability_2>
 					<agl type="number">0</agl>
 					<distance type="string">Ranged 10</distance>
@@ -7926,7 +8010,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Flux Gnash 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<abilityname_ability_2 type="string">Pain Absorption</abilityname_ability_2>
+					<mod_2  type="number">4</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 2</distance>
 					<distance_2 type="string">Self</distance_2>
@@ -8027,7 +8113,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Hair Whip 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<abilityname_ability_2 type="string">Tangled Nest 2d10+4</abilityname_ability_2>
+					<mod_2  type="number">4</mod_2>
 					<agl type="number">4</agl>
 					<distance type="string">Melee 4</distance>
 					<distance_2 type="string">4 burst</distance_2>
@@ -8129,6 +8217,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Emergent Horrors 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 2</distance>
 					<effect type="string">If the handmaiden was totally within their host’s body at the start of this turn, the ability deals an extra 8 damage.</effect>
@@ -8224,6 +8313,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Barbed Stinger 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<abilityname_ability_2 type="string">Stinging Departure</abilityname_ability_2>
 					<agl type="number">4</agl>
 					<distance type="string">Melee 2</distance>
@@ -8326,11 +8416,14 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Stinging Ovipositor 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod  type="number">5</mod>
 					<abilityname_ability_2 type="string">Forced Gestation</abilityname_ability_2>
 					<abilityname_ability_3 type="string">For the Queen!</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Kicking the Nest</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Buzz Off! 2d10+5</abilityname_ability_5>
+					<mod_5  type="number">4</mod_5>
 					<abilityname_ability_6 type="string">Bomber Wasp Warfare 2d10+4</abilityname_ability_6>
+					<mod_6  type="number">4</mod_6>
 					<agl type="number">-1</agl>
 					<distance type="string">Melee 1 or ranged 10</distance>
 					<distance_2 type="string">10 burst</distance_2>
@@ -8457,6 +8550,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Optical Flare 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod  type="number">5</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Ranged 20</distance>
 					<effect type="string">This ability ignores concealment. A winded target takes an extra 5 damage.</effect>
@@ -8551,6 +8645,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Tail Bite 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod  type="number">5</mod>
 					<agl type="number">5</agl>
 					<distance type="string">Melee 3</distance>
 					<effect type="string">The tyburaki can make a free strike against each enemy adjacent to the target.</effect>
@@ -8649,6 +8744,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Gore Horn 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod  type="number">5</mod>
 					<agl type="number">5</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">If this ability is used as part of a charge for which the unguloid moves 2 squares or more, it deals an extra 10 damage.</effect>
@@ -8745,7 +8841,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Nostalgic Wanderlust 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod  type="number">5</mod>
 					<abilityname_ability_2 type="string">Ruinous Temptation 2d10+5</abilityname_ability_2>
+					<mod_2  type="number">5</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">Ranged 10</distance>
 					<distance_2 type="string">4 cube within 10</distance_2>
@@ -8853,7 +8951,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Warp Touch 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod  type="number">5</mod>
 					<abilityname_ability_2 type="string">Soul Flay 2d10+5</abilityname_ability_2>
+					<mod_2  type="number">5</mod_2>
 					<agl type="number">5</agl>
 					<distance type="string">Melee 1 or ranged 10</distance>
 					<distance_2 type="string">6 × 3 line within 1</distance_2>
@@ -8959,11 +9059,14 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Greedy Hands 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod  type="number">5</mod>
 					<abilityname_ability_2 type="string">Covetous Bolts 2d10 + 5</abilityname_ability_2>
+					<mod_2  type="number">5</mod_2>
 					<abilityname_ability_3 type="string">Greed Is Good</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Time Is Money</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Hostile Acquisition</abilityname_ability_5>
 					<abilityname_ability_6 type="string">No Matter the Cost 2d10+5</abilityname_ability_6>
+					<mod_6  type="number">5</mod_6>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 2</distance>
 					<distance_2 type="string">Ranged 20</distance_2>
@@ -9092,6 +9195,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Quill Pushing 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">Any target adjacent to two or more clerks is taunted until the end of their next turn.</effect>
@@ -9187,6 +9291,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Litigation 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">The scrivener can shift 1 square.</effect>
@@ -9280,6 +9385,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Importunity 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">1</agl>
 					<distance type="string">Ranged 5</distance>
 					<effect type="string">One non-minion devil within 5 squares of the notary gains an edge on their next strike.</effect>
@@ -9373,6 +9479,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Infernal Injunction 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Adjudicator’s Interdiction</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Quid Pro Quo</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Devilish Charm</abilityname_ability_4>
@@ -9492,7 +9599,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Fire and Brimstone 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Dismissal with Prejudice 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Ashes to Ashes</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Devilish Charm</abilityname_ability_4>
 					<agl type="number">2</agl>
@@ -9610,7 +9719,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Infernal Pike 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Writ of Execution 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Law and Order</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Devilish Charm</abilityname_ability_4>
 					<agl type="number">1</agl>
@@ -9728,7 +9839,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Edge of the Law 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Verdict 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Justice Turns Its Gaze</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Devilish Charm</abilityname_ability_4>
 					<agl type="number">3</agl>
@@ -9845,7 +9958,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Infernal Decree 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<abilityname_ability_2 type="string">Compel the Jury 2d10+4</abilityname_ability_2>
+					<mod_2  type="number">4</mod_2>
 					<abilityname_ability_3 type="string">Devilish Suggestion</abilityname_ability_3>
 					<abilityname_ability_4 type="string">All Rise</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Heed My Decree</abilityname_ability_5>
@@ -9980,9 +10095,13 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Spittlesplash 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Experimental Treasure 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Elevate</abilityname_ability_3>
+					<mod_3  type="number">3</mod_3>
 					<abilityname_ability_4 type="string">Blood For Blood 2d10+3</abilityname_ability_4>
+					<mod_4  type="number">3</mod_4>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 10</distance>
 					<distance_2 type="string">Ranged 10</distance_2>
@@ -10091,9 +10210,13 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Skewer 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Acidic Stun 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Takeoff</abilityname_ability_3>
+					<mod_3  type="number">4</mod_3>
 					<abilityname_ability_4 type="string">Stay Back! 2d10+3</abilityname_ability_4>
+					<mod_4  type="number">3</mod_4>
 					<agl type="number">3</agl>
 					<distance type="string">Melee 1</distance>
 					<distance_2 type="string">3 × 1 line within 1</distance_2>
@@ -10202,7 +10325,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Breaking Palm 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Expunging Exhalation 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Step and Swap</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Anyone Can Do That</abilityname_ability_4>
 					<agl type="number">3</agl>
@@ -10309,7 +10434,9 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Baneful Blade 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Spinning Spit 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<abilityname_ability_3 type="string">Heavy Landing</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Armor of the Ancients</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Still Your Tongue!</abilityname_ability_5>
@@ -10419,7 +10546,9 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Punishing Flail 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod  type="number">4</mod>
 					<abilityname_ability_2 type="string">I’ll Cut A Path 2d10+4</abilityname_ability_2>
+					<mod_2  type="number">4</mod_2>
 					<abilityname_ability_3 type="string">Watch Your Six!</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Roaring Gambit</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Wings of Second Wind</abilityname_ability_5>
@@ -10551,10 +10680,12 @@
 					<abilityname_ability_2 type="string">Withering Wyrmscale Aura</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Virulent Breath (Signature Ability)</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Spinous Tail Swing 2d10+3</abilityname_ability_4>
+					<mod_4  type="number">4</mod_4>
 					<abilityname_ability_5 type="string">Investiture of Verdure</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Prickly Situation</abilityname_ability_6>
 					<abilityname_ability_7 type="string">Thorny Scales</abilityname_ability_7>
 					<abilityname_ability_8 type="string">Briar Bindings 2d10+3</abilityname_ability_8>
+					<mod_8  type="number">4</mod_8>
 					<abilityname_ability_9 type="string">Thorned Armor</abilityname_ability_9>
 					<agl type="number">3</agl>
 					<distance_10 type="string">Special</distance_10>
@@ -10694,11 +10825,15 @@
 					<abilityname_ability type="string">Solo Monster</abilityname_ability>
 					<abilityname_ability_2 type="string">Gloaming Wyrmscale Aura</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Breath of Brume 2d10+4 (Signature Ability)</abilityname_ability_3>
+					<mod_3  type="number">4</mod_3>
 					<abilityname_ability_4 type="string">Phantom Tail Swing 2d10+4</abilityname_ability_4>
+					<mod_4  type="number">4</mod_4>
 					<abilityname_ability_5 type="string">Visions in the Dark</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Encroaching Darkness</abilityname_ability_6>
 					<abilityname_ability_7 type="string">Enveloping Umbrage 2d10+4</abilityname_ability_7>
+					<mod_7  type="number">4</mod_7>
 					<abilityname_ability_8 type="string">Pall of Nightmares 2d10+4</abilityname_ability_8>
+					<mod_8  type="number">4</mod_8>
 					<abilityname_ability_9 type="string">Absence of All Light</abilityname_ability_9>
 					<agl type="number">4</agl>
 					<distance_3 type="string">4 cube within 10</distance_3>
@@ -10837,10 +10972,13 @@
 					<abilityname_ability_2 type="string">Magnetized Wyrmscale Aura</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Slag Spew (Signature Ability)</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Forge Hammer Tail Slam 2d10+4</abilityname_ability_4>
+					<mod_4  type="number">4</mod_4>
 					<abilityname_ability_5 type="string">Thermodynamic Flight</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Hammer and Anvil</abilityname_ability_6>
 					<abilityname_ability_7 type="string">Polarize Aura 2d10+4</abilityname_ability_7>
+					<mod_7  type="number">4</mod_7>
 					<abilityname_ability_8 type="string">Heart of the Forge 2d10+4</abilityname_ability_8>
+					<mod_8  type="number">4</mod_8>
 					<abilityname_ability_9 type="string">Subdermal Shielding</abilityname_ability_9>
 					<agl type="number">-1</agl>
 					<distance_10 type="string">10 burst</distance_10>
@@ -10987,10 +11125,12 @@
 					<abilityname_ability_2 type="string">Stagnant Wyrmscale Aura</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Corroding Breath (Signature Ability)</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Barbed Tail Swing 2d10+5</abilityname_ability_4>
+					<mod_4  type="number">5</mod_4>
 					<abilityname_ability_5 type="string">Detonation</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Don’t Turn Away</abilityname_ability_6>
 					<abilityname_ability_7 type="string">Repent!</abilityname_ability_7>
 					<abilityname_ability_8 type="string">What You Deserve 2d10+5</abilityname_ability_8>
+					<mod_8  type="number">5</mod_8>
 					<abilityname_ability_9 type="string">Souls of the Broken</abilityname_ability_9>
 					<agl type="number">4</agl>
 					<distance_10 type="string">6 burst</distance_10>
@@ -11138,6 +11278,7 @@
 					<abilityname_ability_2 type="string">Voidshroud Wyrmscale Aura</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Gravity Well (Signature Ability)</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Cosmic Tail Ray 2d10+5</abilityname_ability_4>
+					<mod_4  type="number">5</mod_4>
 					<abilityname_ability_5 type="string">Investiture of Gravity</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Field Collapse</abilityname_ability_6>
 					<abilityname_ability_7 type="string">A Hero Faces the Void</abilityname_ability_7>
@@ -11283,6 +11424,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Whistling Axes 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 1 or ranged 5</distance>
 					<effect type="string">The target can’t use triggered actions until the start of the next round.</effect>
@@ -11374,6 +11516,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Maul 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">If the target is restrained, they take an extra 2 damage.</effect>
@@ -11465,6 +11608,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Handaxes 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">1</agl>
 					<distance type="string">Melee 1 or ranged 5</distance>
 					<effect type="string">A target restrained by a dwarf can be force moved by this ability. This forced movement doesn’t end the restrained condition unless the Director determines otherwise.</effect>
@@ -11556,6 +11700,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Snaring Javelin 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 5</distance>
 					<effect type="string">A target restrained by a dwarf can be force moved by this ability. This forced movement doesn’t end the restrained condition unless the Director determines otherwise.</effect>
@@ -11648,6 +11793,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Portable Ballista 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Ensnaring Chains</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 10</distance>
@@ -11747,6 +11893,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Concussive Grenade 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Sleep Grenade</abilityname_ability_2>
 					<agl type="number">0</agl>
 					<distance type="string">3 cube within 5</distance>
@@ -11848,6 +11995,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Snaring Crossbow 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Reel Them In</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 10</distance>
@@ -11946,6 +12094,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Wide Axe 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Intercepting Shield</abilityname_ability_2>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 1</distance>
@@ -12045,7 +12194,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Tile Slide 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Stone Wave 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">2 cube within 1</distance>
 					<distance_2 type="string">3 cube within 10</distance_2>
@@ -12147,6 +12298,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Concussive Bolts 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Steam-Powered Snare</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1 or ranged 10</distance>
@@ -12247,7 +12399,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Concussive Maul 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Concussive Shockwave 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 1</distance>
 					<distance_2 type="string">3 cube within 1</distance_2>
@@ -12347,6 +12501,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Levitating Axes 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod_3  type="number">3</mod_3>
 					<abilityname_ability_2 type="string">Magnetomancy</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Your Weapon Is Useless</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Ajax Will Pay Well for These Specimens</abilityname_ability_4>
@@ -12474,7 +12629,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Grasping Claws 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Stunning Blast 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 2</distance>
 					<distance_2 type="string">3 burst</distance_2>
@@ -12577,6 +12734,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Spitfire 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Convocation of Flames</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Flame Jet</abilityname_ability_3>
 					<agl type="number">2</agl>
@@ -12687,6 +12845,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Bluster 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Convocation of Squalls</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Thunderclap</abilityname_ability_3>
 					<agl type="number">2</agl>
@@ -12799,6 +12958,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Water Wing 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Convocation of Waves</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Sea-Salted Wounds</abilityname_ability_3>
 					<agl type="number">0</agl>
@@ -12913,6 +13073,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Hampering Roots 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Convocation of Verdure</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Rose Thorn Lash</abilityname_ability_3>
 					<agl type="number">0</agl>
@@ -13027,6 +13188,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Slam Into Dirt 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Convocation of Quartz</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Break Armor</abilityname_ability_3>
 					<agl type="number">-1</agl>
@@ -13140,6 +13302,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Dweomer Plume 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">0</agl>
 					<distance type="string">Melee 2</distance>
 					<ev type="number">3</ev>
@@ -13237,6 +13400,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Heavy Arrow 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 10</distance>
 					<effect type="string">Each ally adjacent to the target shifts up to 2 squares.</effect>
@@ -13334,6 +13498,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Bright Bolt 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">0</agl>
 					<distance type="string">Ranged 5</distance>
 					<effect type="string">Until the start of the dawn mage’s next turn, the target can’t hide.</effect>
@@ -13431,6 +13596,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Heckle 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">Until the end of their turn, the soot crow ignores opportunity attacks from the target.</effect>
@@ -13528,6 +13694,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Wall of Roses (Signature Ability)</abilityname_ability>
 					<abilityname_ability_2 type="string">Whip Frenzy 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">Special; see below</distance>
 					<distance_2 type="string">2 burst</distance_2>
@@ -13627,6 +13794,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Heartpiercer 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Kiss of Death</abilityname_ability_2>
 					<agl type="number">0</agl>
 					<distance type="string">Ranged 15</distance>
@@ -13729,6 +13897,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Razor’s Edge 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Blood Haze</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
@@ -13830,7 +13999,9 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Awash 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Aetherweb 2d10 + 2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<agl type="number">0</agl>
 					<distance type="string">3 cube within 1</distance>
 					<distance_2 type="string">Ranged 8</distance_2>
@@ -13933,6 +14104,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Instill Regret 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Recall</abilityname_ability_2>
 					<agl type="number">0</agl>
 					<distance type="string">Ranged 8</distance>
@@ -14037,6 +14209,7 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Twystrd 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Summon Elemental</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Wyrd Warp</abilityname_ability_3>
 					<agl type="number">1</agl>
@@ -14145,6 +14318,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Sweeping Blade 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Windwalk</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 2</distance>
@@ -14386,7 +14560,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Elemental Charge 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<abilityname_ability_2 type="string">Stomp 2d10+2</abilityname_ability_2>
+					<mod_2  type="number">2</mod_2>
 					<abilityname_ability_3 type="string">Buck</abilityname_ability_3>
 					<agl type="number">2</agl>
 					<distance type="string">Melee 1</distance>
@@ -14494,6 +14670,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Stick and Poke 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">2</mod>
 					<agl type="number">1</agl>
 					<distance type="string">Melee 1</distance>
 					<effect type="string">The cloak shifts up to 2 squares.</effect>
@@ -14593,6 +14770,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Lumina Arrow 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Ranged 7</distance>
 					<effect type="string">The next strike made against the target gains an edge.</effect>
@@ -14692,6 +14870,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Gloom Bolt 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Ranged 5</distance>
 					<ev type="number">6</ev>
@@ -14790,6 +14969,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Vault 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<agl type="number">3</agl>
 					<distance type="string">Melee 2</distance>
 					<effect type="string">The nightstrike shifts to leap over the target and into an unoccupied space adjacent to the target, opposite from the nightstrike’s original space.</effect>
@@ -14890,7 +15070,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Lumina Assault 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Splitbow 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<agl type="number">3</agl>
 					<distance type="string">Ranged 15</distance>
 					<distance_2 type="string">4 × 1 line within 10</distance_2>
@@ -14997,6 +15179,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Suffusing Strike 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Trick of the Eye</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<distance type="string">Ranged 3</distance>
@@ -15100,6 +15283,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Night Knife 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">The Lay of Cor’thoroth</abilityname_ability_2>
 					<agl type="number">3</agl>
 					<distance type="string">Melee 1</distance>
@@ -15205,7 +15389,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Lumina Mark 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod  type="number">3</mod>
 					<abilityname_ability_2 type="string">Mourning Till Dusk 2d10+3</abilityname_ability_2>
+					<mod_2  type="number">3</mod_2>
 					<agl type="number">1</agl>
 					<distance type="string">Ranged 3</distance>
 					<distance_2 type="string">2 burst</distance_2>
