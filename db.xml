@@ -21902,6 +21902,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Searing Grasp 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<agl type="number">1</agl>
 					<characteristic type="number">5</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -21998,6 +21999,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Sword Lunge 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -22094,6 +22096,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Grim Thrust 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<agl type="number">3</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -22189,6 +22192,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Flyby Bite 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<agl type="number">3</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -22288,6 +22292,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Soul Burn 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Burning Legion</abilityname_ability_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">5</characteristic>
@@ -22388,6 +22393,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Blightblade 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">On My Mark!</abilityname_ability_2>
 					<agl type="number">0</agl>
 					<characteristic type="number">1</characteristic>
@@ -22490,6 +22496,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Flaming Kick 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Blazing Trail</abilityname_ability_2>
 					<agl type="number">3</agl>
 					<characteristic type="number">2</characteristic>
@@ -22593,7 +22600,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Tower Shield Smash 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Thunder Rush 2d10+3</abilityname_ability_2>
+					<mod type="number">3</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -22697,6 +22706,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Fire Flail 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Fight Me, Coward!</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<characteristic type="number">1</characteristic>
@@ -22797,7 +22807,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Fire Crossbow 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Fireball Volley 2d10+3</abilityname_ability_2>
+					<mod type="number">3</mod>
 					<agl type="number">3</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -22902,7 +22914,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Eye Flash 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Glare of the Old Judgments 2d10+3</abilityname_ability_2>
+					<mod type="number">3</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">5</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -23005,6 +23019,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Choking Bolt 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Smoke Bomb</abilityname_ability_2>
 					<agl type="number">3</agl>
 					<characteristic type="number">2</characteristic>
@@ -23111,6 +23126,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Hellfire 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Enchantments of War</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Unhallowed Ground</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Magic Siphon</abilityname_ability_4>
@@ -23227,7 +23243,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Steely Skewer 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Tail Stinger 2d10+3</abilityname_ability_2>
+					<mod type="number">3</mod>
 					<abilityname_ability_3 type="string">Devour Soul</abilityname_ability_3>
 					<agl type="number">0</agl>
 					<characteristic type="number">1</characteristic>
@@ -23342,11 +23360,13 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Soul Sword 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod type="number">4</mod>
 					<abilityname_ability_2 type="string">Take Point!</abilityname_ability_2>
 					<abilityname_ability_3 type="string">An Army From Blood</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Advance!</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Skulls Abound</abilityname_ability_5>
 					<abilityname_ability_6 type="string">I Am Fire! I Am Death! 2d10+4</abilityname_ability_6>
+					<mod_6 type="number">4</mod_6>
 					<agl type="number">2</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -23471,6 +23491,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Lightning Strike 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">1</agl>
 					<characteristic type="number">5</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -23563,6 +23584,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Halberd 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">0</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -23655,6 +23677,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Crossbow 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -23746,6 +23769,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Handaxes 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -23838,6 +23862,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Necrotic Bolt 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">1</agl>
 					<characteristic type="number">5</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -23930,6 +23955,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Concealed Dagger 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -24023,6 +24049,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Haymaker 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Throw</abilityname_ability_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">1</characteristic>
@@ -24121,6 +24148,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Morningstar and Javelin 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">0</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -24216,6 +24244,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice per minion</ability_cost_string_2>
 					<abilityname_ability type="string">Death Scythe 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Rise, My Minions</abilityname_ability_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">5</characteristic>
@@ -24313,6 +24342,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Rapier and Dagger 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Dagger Storm</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
@@ -24407,7 +24437,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Lightning Bolt 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Gust of Wind 2d10 + 2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<agl type="number">0</agl>
 					<characteristic type="number">3</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -24508,6 +24540,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Trick Crossbow 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -24599,6 +24632,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Zweihander Swing 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">You!</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Parry!</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Advance!</abilityname_ability_4>
@@ -24721,6 +24755,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Whip and Magic Longsword 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Kneel, Peasant!</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Bloodstones</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Shoot!</abilityname_ability_4>
@@ -24847,6 +24882,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Talons 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Dive</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<characteristic type="number">1</characteristic>
@@ -24943,13 +24979,17 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Solo Monster</abilityname_ability>
 					<abilityname_ability_2 type="string">Tongue Grab 2d10+5 (Signature Ability)</abilityname_ability_2>
+					<mod_2 type="number">5</mod_2>
 					<abilityname_ability_3 type="string">Maw 2d10+5</abilityname_ability_3>
+					<mod_3 type="number">5</mod_3>
 					<abilityname_ability_4 type="string">Consume</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Tongue Whip</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Tearing Recoil 2d10+5</abilityname_ability_6>
+					<mod_6 type="number">5</mod_6>
 					<abilityname_ability_7 type="string">King’s Fissure</abilityname_ability_7>
 					<abilityname_ability_8 type="string">Earth Breach</abilityname_ability_8>
 					<abilityname_ability_9 type="string">Better Out Than In 2d10+5</abilityname_ability_9>
+					<mod_9 type="number">5</mod_9>
 					<agl type="number">1</agl>
 					<characteristic type="number">0</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -25092,6 +25132,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Hasta 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -25184,6 +25225,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Pugio 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -25276,6 +25318,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Composite Bow 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -25368,6 +25411,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Pilium 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -25462,7 +25506,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Shocking Bolt 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Arcane Telum 2d10+2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">3</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -25561,6 +25607,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Gladius 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Shield Bash</abilityname_ability_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">1</characteristic>
@@ -25659,6 +25706,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Chain Hook 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Activate Trap</abilityname_ability_2>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
@@ -25757,6 +25805,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Signum 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Glory to the Legion</abilityname_ability_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">5</characteristic>
@@ -25856,6 +25905,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Dolabra and Net 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -25950,6 +26000,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Engulf 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">You Didn’t Pay Attention!</abilityname_ability_2>
 					<agl type="number">-1</agl>
 					<characteristic type="number">1</characteristic>
@@ -26048,6 +26099,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Pilum 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">3</mod>
 					<abilityname_ability_2 type="string">Concentrate All Fire on That Hero!</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Testudo!</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Firetail Pilum</abilityname_ability_4>
@@ -26173,6 +26225,7 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Fiery Claws 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Drangolin Plume</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Erupt</abilityname_ability_3>
 					<agl type="number">1</agl>
@@ -26283,6 +26336,7 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Flash Swipe 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Piercing Tails</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Hypnotic Mane</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Stalker’s Afterimage</abilityname_ability_4>
@@ -26390,7 +26444,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Pounce 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Sparking Tail Whip 2d10+2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<abilityname_ability_3 type="string">Illusory Feint</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Striking Afterimage</abilityname_ability_4>
 					<agl type="number">1</agl>
@@ -26496,6 +26552,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Snap and Toss 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -26582,6 +26639,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Tonguelash 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -26669,6 +26727,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Shield Smash 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<agl type="number">0</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -26757,7 +26816,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Bola Knock 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Bloodshot 2d10+2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">4</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -26850,7 +26911,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Razor Bite 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Tail Whip 2d10+2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<agl type="number">1</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -26943,7 +27006,9 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Glaive Rush 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Poison Blow Dart 2d10 + 2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<agl type="number">2</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -27040,7 +27105,9 @@
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<abilityname_ability type="string">Ripper Spear 2d10+3 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Death Roll 2d10+2</abilityname_ability_2>
+					<mod_2 type="number">2</mod_2>
 					<abilityname_ability_3 type="string">Trundle</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Swat the Fly</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Snack Attack</abilityname_ability_5>
@@ -27163,6 +27230,7 @@
 					<ability_cost_string_5 type="string">Malice</ability_cost_string_5>
 					<abilityname_ability type="string">Solo Monster</abilityname_ability>
 					<abilityname_ability_2 type="string">Carnivorous Bite 2d10+4 (Signature Ability)</abilityname_ability_2>
+					<mod type="number">4</mod>
 					<abilityname_ability_3 type="string">Tail Spike 2d10 + 4</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Harrying Claws</abilityname_ability_4>
 					<abilityname_ability_5 type="string">Reflexive Instinct</abilityname_ability_5>
@@ -27292,10 +27360,14 @@
 					<ability_cost_string_4 type="string">Malice</ability_cost_string_4>
 					<abilityname_ability type="string">Solo Monster</abilityname_ability>
 					<abilityname_ability_2 type="string">Snake Bites 2d10+4 (Signature Ability)</abilityname_ability_2>
+					<mod_2 type="number">4</mod_2>
 					<abilityname_ability_3 type="string">Damning Gaze 2d10+4 (Signature Ability)</abilityname_ability_3>
+					<mod_3 type="number">4</mod_3>
 					<abilityname_ability_4 type="string">Petrify 2d10+4 </abilityname_ability_4>
+					<mod_4 type="number">4</mod_4>
 					<abilityname_ability_5 type="string">Nimble Escape</abilityname_ability_5>
 					<abilityname_ability_6 type="string">Venomous Spit 2d10+4</abilityname_ability_6>
+					<mod_6 type="number">4</mod_6>
 					<abilityname_ability_7 type="string">Mass Petrify</abilityname_ability_7>
 					<abilityname_ability_8 type="string">Serpent Wings</abilityname_ability_8>
 					<abilityname_ability_9 type="string">Stone Puppets</abilityname_ability_9>
@@ -27436,6 +27508,7 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Flail and Blade 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Primal Bay</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Goring Horns</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Retaliatory Strike</abilityname_ability_4>
@@ -27543,6 +27616,7 @@
 					<ability_cost_string_2 type="string">Malice</ability_cost_string_2>
 					<ability_cost_string_3 type="string">Malice</ability_cost_string_3>
 					<abilityname_ability type="string">Spiked Maul 2d10+2 (Signature Ability)</abilityname_ability>
+					<mod type="number">2</mod>
 					<abilityname_ability_2 type="string">Fearsome Bay</abilityname_ability_2>
 					<abilityname_ability_3 type="string">Disemboweling Horns</abilityname_ability_3>
 					<abilityname_ability_4 type="string">Retaliatory Strike</abilityname_ability_4>
@@ -27653,6 +27727,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Javelin and Bellow 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod type="number">4</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -27738,6 +27813,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Horn Vault 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod type="number">4</mod>
 					<agl type="number">4</agl>
 					<characteristic type="number">2</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -27824,6 +27900,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Bull Rush 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod type="number">5</mod>
 					<agl type="number">5</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -27910,6 +27987,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Wild Slam 2d10+5 (Signature Ability)</abilityname_ability>
+					<mod type="number">5</mod>
 					<agl type="number">-1</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
@@ -27999,6 +28077,7 @@
 					<ability_cost_8 type="number">0</ability_cost_8>
 					<ability_cost_9 type="number">0</ability_cost_9>
 					<abilityname_ability type="string">Throw Fit 2d10+4 (Signature Ability)</abilityname_ability>
+					<mod type="number">4</mod>
 					<agl type="number">2</agl>
 					<characteristic type="number">1</characteristic>
 					<characteristic_10 type="number">1</characteristic_10>
